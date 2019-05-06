@@ -2,6 +2,8 @@
 
 # USE THIS AT YOUR OWN RISK!
 
+This Might Get You Ban, So I Would Recommed You To **Not** use it
+
 ## You will have to 
 install Node.js, From https://nodejs.org/en/
 Get Discord Bot Token, From https://discordapp.com/developers/applications/
