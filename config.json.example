@@ -1,6 +1,6 @@
 {
-"TARGET_SERVER_ID" : "YOUR TARGET SERVER ID",
+"TARGET_SERVER_ID" : "",
 "NEW_SERVER_NAME" : ".",
 "NEW_SERVER_ICON_URL" : "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ82r9tOQwe_MCC267OkAUXfIsbrFver_0ubQ&usqp=CAU",
-"BOT_TOKEN" : "NjA3NTM4NTk0NjQ2NzIwNTIy.XUbEaA.6wvSxSl-OgSU1vPbkoqKlc1CujQ"
+"BOT_TOKEN" : ""
 }
